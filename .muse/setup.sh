@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-apt update && apt install -y libboost-all-dev
-
+cd build ; ./build_openr.sh
